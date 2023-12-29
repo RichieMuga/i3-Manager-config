@@ -67,3 +67,11 @@ Mod + Shift + E
 ```bash
 i3lock
 ```
+
+# Useful links
+## For adding a second monitor
+https://fedoramagazine.org/using-i3-with-multiple-monitors/
+
+
+
+
